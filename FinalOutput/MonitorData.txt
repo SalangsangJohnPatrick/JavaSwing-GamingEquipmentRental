@@ -1,0 +1,10 @@
+GAMING EQUIPMENT RENTAL
+
+Name:                John Patrick
+Address:             Lubao, Pampanga
+Contact No.:         09055792495
+
+Product Rented:      Gamdias ATLAS Gaming Monitor
+Rental Days:         9 days
+Rental Price:        50 PHP per day
+Total Price:         450 PHP

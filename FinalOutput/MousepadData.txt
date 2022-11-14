@@ -1,0 +1,10 @@
+GAMING EQUIPMENT RENTAL
+
+Name:                John Patrick
+Address:             Lubao, Pampanga
+Contact No.:         09055792495
+
+Product Rented:      FANTECH Sven Mousepad
+Rental Days:         9 days
+Rental Price:        5 PHP per day
+Total Price:         45 PHP

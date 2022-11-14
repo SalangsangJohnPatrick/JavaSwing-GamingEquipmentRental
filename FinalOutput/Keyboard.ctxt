@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Keyboard
+comment1.params=s1Button\ s2Button\ s3Button\ s4Button
+comment1.target=Keyboard(javax.swing.JButton,\ javax.swing.JButton,\ javax.swing.JButton,\ javax.swing.JButton)
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=e
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=e
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment5.params=e
+comment5.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment6.params=e
+comment6.target=void\ keyboard1(java.awt.event.ActionEvent)
+comment7.params=e
+comment7.target=void\ keyboard2(java.awt.event.ActionEvent)
+comment8.params=e
+comment8.target=void\ keyboard3(java.awt.event.ActionEvent)
+comment9.params=e
+comment9.target=void\ keyboard4(java.awt.event.ActionEvent)
+numComments=10

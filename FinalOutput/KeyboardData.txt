@@ -1,0 +1,10 @@
+GAMING EQUIPMENT RENTAL
+
+Name:                John Patrick
+Address:             Lubao, Pampanga
+Contact No.:         09055792495
+
+Product Rented:      Fantech MAXPOWER MK853 Mechanical Keyboard
+Rental Days:         9 days
+Rental Price:        20 PHP per day
+Total Price:         180 PHP
